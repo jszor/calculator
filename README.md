@@ -8,6 +8,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - Clear button to reset the calculator.
 - Responsive design for various screen sizes.
 
-- ## Demo
+## Demo
 
 You can check out a live demo of the calculator [here](#).
